@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LuxaforController")]
+[assembly: AssemblyTitle("LuxaforController.TrayApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("C.H. Robinson")]
-[assembly: AssemblyProduct("LuxaforController")]
+[assembly: AssemblyProduct("LuxaforController.TrayApp")]
 [assembly: AssemblyCopyright("Copyright © C.H. Robinson 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("74b1b5ac-28c3-46f8-9a1f-883ab7775fa5")]
+[assembly: Guid("00ba8bd4-4b46-4c3d-8242-4117b271f61b")]
 
 // Version information for an assembly consists of the following four values:
 //
